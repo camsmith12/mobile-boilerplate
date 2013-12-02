@@ -1,5 +1,6 @@
 == HEAD
 
+* Add support for Open Web Apps (#197)
 * Option to add canonical link to desktop site. (#204)
 * Redesign 404 page (#202)
 * Update to Apache Server Configs 2.1.0
